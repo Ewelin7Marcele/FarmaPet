@@ -1,0 +1,4 @@
+Data,Animal,Espécie,Peso (kg),Dose (mg/kg),Base,Apresentação,Teor informado,Princípio ativo por administração (mg),Quantidade por administração,Unidade
+DEMO 01/11/2026,Luna (FICTÍCIO),Cão,8,5,mg/kg por administração,Solução/suspensão (mg/mL),10,40,4,mL
+DEMO 02/11/2026,Mimi (FICTÍCIO),Gato,4,2,mg/kg por administração,Suspensão (mg/5 mL),20,8,2,mL
+DEMO 03/11/2026,Toby (FICTÍCIO),Cão,12,1,mg/kg por dia (dose diária total),Comprimido (mg/comprimido),6,6,1,comprimido(s)
